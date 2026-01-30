@@ -13,7 +13,7 @@ Data processing and analysis were performed using **pandas**, with visualization
 
 Initial exploration was conducted through **Google Sheets**–**Colab integration**, followed by automated data ingestion using an exported **CSV** snapshot for security and reproducibility.
 
-- ### Total number of projects in in 2025.
+- ### Total number of projects in 2025.
 My team coducted 2,530 projects in 2025.
 <img src="https://github.com/InYoungee/localization-data-analysis/blob/main/images/total%20projects%20in%202025.png">
 
