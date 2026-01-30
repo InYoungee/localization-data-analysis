@@ -34,7 +34,7 @@ Game T has the highest LQA intensity compared to the total Projects, 28%.
 <img src="https://github.com/InYoungee/localization-data-analysis/blob/main/images/trans%20distribution.png">
 
 - ## Average Word Count per Project by Game
-!(https://github.com/InYoungee/localization-data-analysis/blob/main/images/avg%20wc%20by%20game.gif)
+![Average wc by game](https://github.com/InYoungee/localization-data-analysis/blob/main/images/avg%20wc%20by%20game.gif)
 
 - ## Monthly & Yearly Average Workload per In-house Translator
 <img src="https://github.com/InYoungee/localization-data-analysis/blob/main/images/avg%20trans%20workload%20.png">
