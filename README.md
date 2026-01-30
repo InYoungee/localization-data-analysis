@@ -1,4 +1,4 @@
-**[View the notebook with interactive visualizations](https://nbviewer.org/github/InYoungee/localization-data-analysis/blob/main/2025_Localization_Data_Analysis.ipynb)**
+ 🔗 **[View the notebook with interactive visualizations](https://nbviewer.org/github/InYoungee/localization-data-analysis/blob/main/2025_Localization_Data_Analysis.ipynb)**
 
 *Note: Plotly visualizations may not render correctly in GitHub’s notebook preview.*
 *Please use the nbviewer link above for full interactivity.*
@@ -9,9 +9,9 @@ This project analyzes localization project data from 2025 to explore workload di
 
 To ensure confidentiality, the original dataset was duplicated and anonymized prior to analysis. Low-volume projects were excluded to focus on representative workloads, all game titles and linguist names were replaced with anonymized labels, and unused fields (such as project titles) were removed.
 
-Data processing and analysis were performed using pandas, with visualizations created using matplotlib, Seaborn, and Plotly. The cleaned dataset was programmatically exported to Google Sheets via the Google Sheets API.
+Data processing and analysis were performed using **pandas**, with visualizations created using **matplotlib**, **Seaborn**, and **Plotly**. The cleaned dataset was programmatically exported to Google Sheets via the **Google Sheets API**.
 
-Initial exploration was conducted through Google Sheets–Colab integration, followed by automated data ingestion using an exported CSV snapshot for security and reproducibility.
+Initial exploration was conducted through **Google Sheets**–**Colab integration**, followed by automated data ingestion using an exported **CSV** snapshot for security and reproducibility.
 
 - ### Total number of projects in in 2025.
 My team coducted 2,530 projects in 2025.
