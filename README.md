@@ -1,4 +1,4 @@
- 🔗 **[View the notebook with interactive visualizations](https://nbviewer.org/github/InYoungee/localization-data-analysis/blob/main/2025_Localization_Data_Analysis.ipynb)**
+ 🔗 **[View the notebook with interactive visualizations and full analysis](https://nbviewer.org/github/InYoungee/localization-data-analysis/blob/main/2025_Localization_Data_Analysis.ipynb)**
 
 *Note: Plotly visualizations may not render correctly in GitHub’s notebook preview.*
 *Please use the nbviewer link above for full interactivity.*
@@ -34,6 +34,7 @@ Game T has the highest LQA intensity compared to the total Projects, 28%.
 <img src="https://github.com/InYoungee/localization-data-analysis/blob/main/images/trans%20distribution.png">
 
 - ## Average Word Count per Project by Game
+Titles with a high average word count per translation request tend to be associated with earlier lifecycle stages of production.
 ![Average wc by game](https://github.com/InYoungee/localization-data-analysis/blob/main/images/avg%20wc%20by%20game.gif)
 
 - ## Monthly & Yearly Average Workload per In-house Translator
